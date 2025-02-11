@@ -1,0 +1,26 @@
+Archivo requerement.txt
+
+azure-ai-textanalytics==5.2.0
+azure-core
+python-dotenv
+
+
+En archivo .env colocar
+LENGUAGE_KEY = 
+LENGUAJE_ENDPOINT = 
+
+
+
+
+
+
+
+
+
+en la consola: 
+Actualizar pip
+
+python -m pip install --upgrade pip
+
+
+pip install requeriment.txt
